@@ -1,0 +1,11 @@
+LonScript:
+  type: programming
+  extensions:
+  - ".lns"
+  - ".lon"
+  tm_scope: source.ls
+  ace_mode: text
+  # language_id: ommitted for now
+  aliases:
+  - lns
+  - lon-script
